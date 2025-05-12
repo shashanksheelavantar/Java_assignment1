@@ -1,0 +1,1 @@
+ListOperations1a-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/ListOperations1aop.png
