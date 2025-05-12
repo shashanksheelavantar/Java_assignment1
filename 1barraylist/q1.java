@@ -4,20 +4,21 @@
 // the color "Red" is available or not
 import java.util.ArrayList;
 
-public class ColorSearch1b1{
+public class q1 {
+
     public static void main(String[] args) {
         // Create an ArrayList of colors
         ArrayList<String> colors = new ArrayList<>();
 
-        // Adding colors to the ArrayList
+        // Add different colors to the ArrayList
         colors.add("Blue");
         colors.add("Green");
+        colors.add("Red");
         colors.add("Yellow");
-        colors.add("Red");  // You can remove this line to test the "not found" case
-        colors.add("Purple");
+        colors.add("Black");
 
-        // Print all colors
-        System.out.println("List of colors: " + colors);
+        // Display the color list
+        System.out.println("Color List: " + colors);
 
         // Search for the color "Red"
         if (colors.contains("Red")) {

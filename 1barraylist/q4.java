@@ -1,28 +1,28 @@
 // 4. Write a java program for getting different colors through ArrayList interface and sort them
 // using Collections.sort( ArrayListObj)
-
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class ColorSort1b4 {
+public class q4 {
+
     public static void main(String[] args) {
         // Create an ArrayList of colors
         ArrayList<String> colors = new ArrayList<>();
 
-        // Adding colors to the ArrayList
-        colors.add("Red");
+        // Add colors to the ArrayList
         colors.add("Blue");
+        colors.add("Red");
         colors.add("Green");
         colors.add("Yellow");
-        colors.add("Purple");
+        colors.add("Black");
 
-        // Display the original list
-        System.out.println("Original color list: " + colors);
+        // Print the original list
+        System.out.println("Original Color List: " + colors);
 
-        // Sort the colors alphabetically
+        // Sort the ArrayList
         Collections.sort(colors);
 
-        // Display the sorted list
-        System.out.println("Sorted color list: " + colors);
+        // Print the sorted list
+        System.out.println("Sorted Color List: " + colors);
     }
 }
