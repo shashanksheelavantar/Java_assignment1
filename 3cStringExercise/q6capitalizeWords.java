@@ -1,7 +1,7 @@
 // Q6. Write a Java Program for Capitalizing the first letter of each word. using user defined function
 // capitalizeWords()
 
-public class q6 {
+public class q6capitalizeWords {
 
     // User-defined function to capitalize the first letter of each word
     public static String capitalizeWords(String str) {

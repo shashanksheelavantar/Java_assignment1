@@ -1,6 +1,6 @@
 // Q10. Write a Java Program for Counting the number of words in a string using user defined function
 // countWords()
-public class q10 {
+public class q10numOfWord {
 
     // User-defined function to count words in a string
     public static int countWords(String str) {

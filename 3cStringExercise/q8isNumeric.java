@@ -1,6 +1,6 @@
 // Q8. Write a Java Program for Verifying if a string contains only numeric characters using user defined
 // function isNumeric()
-public class q8 {
+public class q8isNumeric {
 
     // User-defined function to check if a string contains only numeric characters
     public static boolean isNumeric(String str) {

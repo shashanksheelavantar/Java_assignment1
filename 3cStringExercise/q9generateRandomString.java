@@ -2,7 +2,7 @@
 // function generateRandomString()
 import java.util.Random;
 
-public class q9 {
+public class q9generateRandomString {
 
     // User-defined function to generate a random string of given length
     public static String generateRandomString(int length) {
