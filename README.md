@@ -1,14 +1,14 @@
 1aListOperations-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/1a.png
 
-1bq1-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/1bq1.png
+1bq1-colorcheck-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/1bq1.png
 
-1bq2-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/1bq2.png
+1bq2-ColorListDemo-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/1bq2.png
 
-1bq4-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/1bq4.png
+1bq4-ArrayListObj-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/1bq4.png
 
-1bq5-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/1bq5.png
+1bq5-subList-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/1bq5.png
 
-1bq6-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/1bq6.png
+1bq6-removeByIndex-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/1bq6.png
 
 1c-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/1c.png
 
