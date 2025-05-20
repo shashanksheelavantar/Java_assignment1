@@ -6,7 +6,7 @@
 // contains( ) and startsWith() and endsWith()
 
 
-public class StringOperationsDemo2a {
+public class StringOperationsDemo3a {
     public static void main(String[] args) {
 
         // 1. String Creation and Basic Operations
