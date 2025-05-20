@@ -1,4 +1,4 @@
-1a-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/1a.png
+1aListOperations-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/1a.png
 
 1bq1-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/1bq1.png
 

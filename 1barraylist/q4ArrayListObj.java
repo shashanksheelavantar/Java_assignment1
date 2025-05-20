@@ -3,7 +3,7 @@
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class q4 {
+public class q4ArrayListObj {
 
     public static void main(String[] args) {
         // Create an ArrayList of colors

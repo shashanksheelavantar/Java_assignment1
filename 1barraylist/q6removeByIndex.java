@@ -4,7 +4,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class q6 {
+public class q6removeByIndex {
 
     public static void main(String[] args) {
         // Create an ArrayList of colors

@@ -4,7 +4,7 @@
 // the color "Red" is available or not
 import java.util.ArrayList;
 
-public class q1 {
+public class q1colorcheck {
 
     public static void main(String[] args) {
         // Create an ArrayList of colors
