@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1aListOperations-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/1a.png
 
 1bq1-colorcheck-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/1bq1.png
@@ -77,3 +78,6 @@
 9c-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/9c.jpeg
 
 9d-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/9d.jpeg
+=======
+# Java_assignment1
+>>>>>>> 070c702d8aa45ec01600e25997ddd21e886544a1
