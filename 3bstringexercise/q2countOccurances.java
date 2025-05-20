@@ -1,7 +1,7 @@
 // Q2. Write a Java Program for Counting how many times a substring appears in a main string
 // using user defined function countOccurrences()
 
-public class q2 {
+public class q2countOccurances {
 
     // User-defined function to count occurrences of a substring
     public static int countOccurrences(String mainStr, String subStr) {

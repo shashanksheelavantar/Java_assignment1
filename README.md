@@ -10,13 +10,13 @@
 
 1bq6-removeByIndex-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/1bq6.png
 
-1c-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/1c.png
+1c-LinkedListOperations-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/1c.png
 
-2a-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/2a3a.png
+2a-StringOperations-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/2a3a.png
 
-2b-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/2b.png
+2b-PerformanceTesting-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/2b.png
 
-3a-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/2a3a.png
+3a-StringOperationsDemo-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/2a3a.png
 
 3bq1-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/3bq1.png
 

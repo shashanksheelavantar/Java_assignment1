@@ -1,7 +1,7 @@
 // Q5. Write a Java Program for Eliminating all whitespace characters from a string using user defined
 // function removeWhitespace()
 
-public class q5 {
+public class q5removeWhiteSpace {
 
     // User-defined function to remove all whitespace characters from a string
     public static String removeWhitespace(String str) {
